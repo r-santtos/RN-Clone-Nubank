@@ -1,4 +1,4 @@
-# RN-Clone-Nubank-
+# React Native Clone Nubank
 Recreating the Nubank 2022 app layout using React Native and TypeScript
 
 ### Watch YouTube
